@@ -3,5 +3,6 @@
 * [序](README.md)
 * [劫](chapter1.md)
 * [节](chapter2.md)
-* [介](jie.md)
+* [介](chapter3.md)
+* [嗟](jie.md)
 
